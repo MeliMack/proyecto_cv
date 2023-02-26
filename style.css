@@ -1,0 +1,69 @@
+
+*{
+    color: black;
+    font-family:'Explora';
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgba(219, 217, 217, 0.959);
+    margin-top: 5px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+header{
+    background-color: rgb(18, 26, 26);
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+#foto{
+   border-color: black;
+    border-radius: 100px;  
+}
+
+header div{
+    font-size: 35px;
+}
+
+button{
+    color: rgb(36, 49, 221);
+    font-size: 17px;
+    padding:5px;
+    font-weight: bold;
+}
+
+h1{
+    color: white;
+    font-size:  50px;
+}
+
+h2{
+    color:rgb(18, 26, 26);
+    width: 300px;
+    font: bold;
+    padding: 20px 15px 10px 5px;
+    text-decoration-line: underline;
+}
+/*comentario - top-bottom-left-right*/
+
+h4{
+    color: rgb(36, 49, 221);
+}
+
+ul {
+    list-style: none;
+    text-align: justify;
+   line-height: 25px;
+}
+
+section{
+    width: 400px;
+}
+
+
+
+
+
+
